@@ -1,0 +1,14 @@
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.deps.json
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.runtimeconfig.json
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.AssemblyInfo.cs
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.dll
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/refint/ConsoleApp2.dll
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.pdb
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ConsoleApp2.genruntimeconfig.cache
+/Users/paulblazhko/Desktop/c#16/ConsoleApp2/ConsoleApp2/obj/Debug/net8.0/ref/ConsoleApp2.dll
